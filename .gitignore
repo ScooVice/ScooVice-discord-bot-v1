@@ -1,0 +1,31 @@
+# Environment variables - JANGAN UPLOAD INI!
+.env
+.env.local
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Logs
+*.log
+bot_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environment
+venv/
+env/
+ENV/
