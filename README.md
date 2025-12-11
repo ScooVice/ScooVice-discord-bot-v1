@@ -12,7 +12,7 @@ Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis
 
 ## 📸 Screenshots
 
-*(Tambahkan screenshot bot kamu disini nanti)*
+*(![Bot Screenshot](screenshots/bot-demo.png))*
 
 ## 🛠️ Technologies Used
 
@@ -41,8 +41,8 @@ Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/discord-bot-v1.git
-cd discord-bot-v1
+git clone https://github.com/ScooVice/ScooVice-discord-bot-v1.git
+cd ScooVice-discord-bot-v1
 ```
 
 ### Step 2: Install Dependencies
@@ -143,7 +143,7 @@ Model yang tersedia di Groq:
 
 Contributions, issues, dan feature requests sangat diterima!
 
-Feel free to check [issues page](https://github.com/your-username/discord-bot-v1/issues).
+Feel free to check [issues page](https://github.com/ScooVice/ScooVice-discord-bot-v1/issues).
 
 ## 📄 License
 
@@ -153,8 +153,8 @@ This project is [MIT](LICENSE) licensed.
 
 **ScooVice**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- Discord: ScooVice#1234
+- GitHub: [@ScooVice](https://github.com/ScooVice)
+- Discord: scoovice
 
 ## 🌟 Show Your Support
 
