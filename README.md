@@ -12,7 +12,7 @@ Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis
 
 ## 📸 Screenshots
 
-*(![Bot Screenshot](screenshots/bot-demo.png))*
+*![Bot Screenshot](screenshots/bot-demo.png)*
 
 ## 🛠️ Technologies Used
 
