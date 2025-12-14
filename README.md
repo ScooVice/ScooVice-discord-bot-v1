@@ -162,4 +162,8 @@ Jika project ini membantu kamu, jangan lupa kasih ⭐️!
 
 ---
 
+This project will continue, so just wait and please support, thank you.
+
+---
+
 This Project Made With ❤️ By ScooVice
