@@ -162,4 +162,4 @@ Jika project ini membantu kamu, jangan lupa kasih ⭐️!
 
 ---
 
-Made with ❤️ by ScooVice
+This Project Made With ❤️ By ScooVice
