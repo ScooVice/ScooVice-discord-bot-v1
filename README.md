@@ -162,7 +162,7 @@ Jika project ini membantu kamu, jangan lupa kasih ⭐️!
 
 ---
 
-This project will continue, so just wait and please support, thank you.
+This project will be continue to ScooVice's BOT V2, so just wait and please support, thank you 🤝
 
 ---
 
