@@ -156,13 +156,14 @@ This project is [MIT](LICENSE) licensed.
 - GitHub: [@ScooVice](https://github.com/ScooVice)
 - Discord: scoovice
 
+## ⚠️ Disclaimer!!!
+
+This project is archived and no longer maintained.
+For the latest version, see ScooVice BOT V2. Thank You 🤝
+
 ## 🌟 Show Your Support
 
 Jika project ini membantu kamu, jangan lupa kasih ⭐️!
-
----
-
-This project will be continue to ScooVice's BOT V2, so just wait and please support, thank you 🤝
 
 ---
 
