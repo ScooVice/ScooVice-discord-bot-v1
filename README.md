@@ -1,4 +1,4 @@
-# 🤖 ScooVice's Discord Bot V1
+# 🤖 ScooVice's Learning Project
 
 Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis & Unlimited!**
 
@@ -12,7 +12,7 @@ Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis
 
 ## 📸 Screenshots
 
-*![Bot Demo](bot-demo.png)*
+_![Bot Demo](bot-demo.png)_
 
 ## 🛠️ Technologies Used
 
@@ -23,12 +23,12 @@ Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis
 
 ## 📋 Commands
 
-| Command | Description |
-|---------|-------------|
-| `@Bot mention` | Chat dengan AI bot |
-| `!reset` | Reset conversation history |
-| `!bothelp` | Tampilkan panduan penggunaan |
-| `!model` | Info model AI yang digunakan |
+| Command        | Description                  |
+| -------------- | ---------------------------- |
+| `@Bot mention` | Chat dengan AI bot           |
+| `!reset`       | Reset conversation history   |
+| `!bothelp`     | Tampilkan panduan penggunaan |
+| `!model`       | Info model AI yang digunakan |
 
 ## 🚀 Installation & Setup
 
@@ -41,8 +41,8 @@ Discord AI Chatbot yang powerful menggunakan Groq API (Llama 3.3 70B) - **Gratis
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/ScooVice/ScooVice-discord-bot-v1.git
-cd ScooVice-discord-bot-v1
+git clone https://github.com/ScooVice/ScooVice-Learning-Project.git
+cd ScooVice-Learning-Project
 ```
 
 ### Step 2: Install Dependencies
@@ -54,11 +54,13 @@ pip install -r requirements.txt
 ### Step 3: Setup Environment Variables
 
 1. Copy file `.env.example` menjadi `.env`:
+
 ```bash
 cp .env.example .env
 ```
 
 2. Edit file `.env` dan isi dengan token kamu:
+
 ```env
 DISCORD_TOKEN=your_discord_token_here
 GROQ_API_KEY=your_groq_api_key_here
@@ -111,6 +113,7 @@ chat_completion = client.chat.completions.create(
 ```
 
 Model yang tersedia di Groq:
+
 - `llama-3.3-70b-versatile` (Recommended)
 - `llama-3.1-70b-versatile`
 - `mixtral-8x7b-32768`
@@ -119,31 +122,25 @@ Model yang tersedia di Groq:
 ## 🐛 Troubleshooting
 
 ### Bot tidak merespon
+
 - Pastikan **Message Content Intent** sudah diaktifkan di Discord Developer Portal
 - Cek apakah token Discord dan Groq API key sudah benar di file `.env`
 
 ### Error "insufficient_quota"
+
 - Cek saldo/quota Groq API di [Groq Console](https://console.groq.com)
 - Groq API gratis unlimited, tapi mungkin ada rate limiting
 
 ### Bot sering disconnect
+
 - Pastikan koneksi internet stabil
 - Consider deploy ke cloud platform untuk uptime 24/7
-
-## 📝 To-Do / Future Features
-
-- [ ] Slash commands support
-- [ ] Embed messages untuk response yang lebih menarik
-- [ ] Database integration untuk persistent storage
-- [ ] Multi-language support
-- [ ] Admin commands (kick, ban, mute)
-- [ ] Music player integration
 
 ## 🤝 Contributing
 
 Contributions, issues, dan feature requests sangat diterima!
 
-Feel free to check [issues page](https://github.com/ScooVice/ScooVice-discord-bot-v1/issues).
+Feel free to check [issues page](https://github.com/ScooVice/ScooVice-Learning-Project/issues).
 
 ## 📄 License
 
@@ -159,7 +156,7 @@ This project is [MIT](LICENSE) licensed.
 ## ⚠️ Disclaimer!!!
 
 This project is archived and no longer maintained.
-For the latest version, see ScooVice BOT V2. Thank You 🤝
+For the latest version, see ScooVice's Discord Bot. Thank You 🤝
 
 ## 🌟 Show Your Support
 
